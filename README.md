@@ -10,7 +10,7 @@ Hi! I'm Ashi, a Software Engineer building my problem-solving skills through Dat
 - Maintain clean, readable code
 
 ## Topics
-- [x] Basic Java and GCD
+- [x] Basic Java and Maths
 - [ ] Arrays
 - [ ] Strings
 - [ ] Hashing
@@ -25,6 +25,8 @@ Hi! I'm Ashi, a Software Engineer building my problem-solving skills through Dat
 dsa-java-practice/
 └── 01-basics/
     └── GCD.java
+└── 02-Arrays/
+    └── SecondLargest.java
 ```
 
 ## Solutions
@@ -32,6 +34,7 @@ dsa-java-practice/
 | Problem | Topic | Language |
 |---------|-------|----------|
 | GCD | Basic Math | Java |
+| SecondLargest | Basic Array | Java |
 
 More solutions will be added as I progress.
 
